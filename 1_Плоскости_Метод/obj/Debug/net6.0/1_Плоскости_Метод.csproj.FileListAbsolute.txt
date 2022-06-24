@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\bin\Debug\net6.0\1_Плоскости_Метод.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\bin\Debug\net6.0\1_Плоскости_Метод.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\bin\Debug\net6.0\1_Плоскости_Метод.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\bin\Debug\net6.0\1_Плоскости_Метод.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\bin\Debug\net6.0\1_Плоскости_Метод.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\refint\1_Плоскости_Метод.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\1_Плоскости_Метод.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\1_Плоскости_Метод\obj\Debug\net6.0\ref\1_Плоскости_Метод.dll

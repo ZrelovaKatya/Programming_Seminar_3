@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\bin\Debug\net6.0\3_Расстояние_точек.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\bin\Debug\net6.0\3_Расстояние_точек.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\bin\Debug\net6.0\3_Расстояние_точек.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\bin\Debug\net6.0\3_Расстояние_точек.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\bin\Debug\net6.0\3_Расстояние_точек.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\refint\3_Расстояние_точек.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\3_Расстояние_точек.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\3_Расстояние_точек\obj\Debug\net6.0\ref\3_Расстояние_точек.dll

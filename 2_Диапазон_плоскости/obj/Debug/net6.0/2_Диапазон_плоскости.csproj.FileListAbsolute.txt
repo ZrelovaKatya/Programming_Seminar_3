@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\bin\Debug\net6.0\2_Диапазон_плоскости.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\bin\Debug\net6.0\2_Диапазон_плоскости.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\bin\Debug\net6.0\2_Диапазон_плоскости.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\bin\Debug\net6.0\2_Диапазон_плоскости.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\bin\Debug\net6.0\2_Диапазон_плоскости.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\refint\2_Диапазон_плоскости.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\2_Диапазон_плоскости.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_3\2_Диапазон_плоскости\obj\Debug\net6.0\ref\2_Диапазон_плоскости.dll
